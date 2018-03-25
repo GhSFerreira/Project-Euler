@@ -1,3 +1,3 @@
 # Project-Euler
 
-Implementation of Project-Euler's exercices in C. 
+Implementation of Project-Euler's exercises in C. 
